@@ -1,1 +1,6 @@
 # kwasiasomani.github.io
+Ans: 
+
+ - [x] Title of dataset : Telecommunication Churn Prediction
+ - [x] URL : [https://github.com/kwasiasomani/Telco-Churn-prediction](https://github.com/kwasiasomani/Telco-Churn-prediction)
+ - [x] Potential Applications :Predicting customer churn has significant practical value for any company seeking to maintain a loyal customer base and sustain revenue. By identifying customers who are likely to leave, businesses can implement targeted retention strategies, such as personalized offers, discounts, or enhanced customer support, to encourage them to stay. This proactive approach not only reduces potential revenue loss but also allows companies to allocate resources efficiently, focusing on high-risk customers. Moreover, analyzing churn patterns can provide insights into which services or features are causing dissatisfaction, enabling service improvements that benefit all customers. In addition, marketing efforts can be more effectively directed toward segments of the customer base that are at higher risk of leaving, reducing wasted expenditure on broad campaigns. Overall, churn prediction empowers businesses to make data-driven decisions, improve customer satisfaction, and maximize long-term profitability.
