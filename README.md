@@ -1,5 +1,4 @@
 # kwasiasomani.github.io
-Ans: 
 
  - [x] Title of dataset : Telecommunication Churn Prediction
  - [x] URL : [https://github.com/kwasiasomani/Telco-Churn-prediction](https://github.com/kwasiasomani/Telco-Churn-prediction)
